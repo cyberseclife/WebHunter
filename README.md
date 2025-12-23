@@ -34,3 +34,13 @@ Flags:
       --rate int         Rate limit in requests per second (default 5)
 
 Use "webhunter [command] --help" for more information about a command.
+
+Install Commands (Linux):
+git clone https://github.com/cyberseclife/WebHunter
+cd WebHunter
+chmod +x webhunter
+./webhunter
+or for making it globally accessible:
+sudo ln -s /path/to/webhunter /usr/local/bin/webhunter
+
+Happy Hunting!
