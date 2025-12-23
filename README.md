@@ -7,10 +7,9 @@ cyberseclife@debian-vm ~/Projects/webhunter $ ./webhunter
 | |     / /__  / /_  / / / /_  ______  / /____  _____ 
 | | /| / / _ \/ __ \/ /_/ / / / / __ \/ __/ _ \/ ___/
 | |/ |/ /  __/ /_/ / __  / /_/ / / / / /_/  __/ /
-|__/|__/_\___/_.___/_/ /_/\__,_/_/ /_/\__/ _\___/_/
-```
-
+|__/|__/_\___/_.___/_/ /_/\__,_/_/ /_/\__/ _\___/_/```
     High-Performance Security Assessment CLI
+
 
 A modular CLI application for Recon, Analysis, and Exploitation.
 Automates the security assessment pipeline.
