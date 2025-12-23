@@ -1,0 +1,2 @@
+# Add excluded targets regex here (one per line)
+example.com

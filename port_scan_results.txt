@@ -1,0 +1,2 @@
+example.com:80 OPEN
+example.com:443 OPEN
