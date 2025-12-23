@@ -3,6 +3,7 @@
 All-In-One Bug Bounty Tool Written In GoLang
 
 cyberseclife@debian-vm ~/Projects/webhunter $ ./webhunter
+
  _       __     __    __  __            __
 | |     / /__  / /_  / / / /_  ______  / /____  _____ 
 | | /| / / _ \/ __ \/ /_/ / / / / __ \/ __/ _ \/ ___/
