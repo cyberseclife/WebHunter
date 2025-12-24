@@ -41,6 +41,8 @@ cd WebHunter
 chmod +x webhunter
 ./webhunter
 or for making it globally accessible:
-sudo ln -s /path/to/webhunter /usr/local/bin/webhunter
+sudo cp /path/to/webhunter /home/<username>/go/bin/webhunter
+or
+sudo mv /path/to/webhunter /home/<username>/go/bin/webhunter
 
 Happy Hunting!
