@@ -2,7 +2,7 @@
 
 All-In-One Bug Bounty Tool Written In GoLang
 
-***This program is for use in authorized testing only. The user user assumes all responsibily.
+***This program is for use in authorized testing only. The user assumes all responsibily.
 DO NOT use on government sites and do not perform any unauthorized testing. 
 I know this will be ignored but i will say it anyway!***
 
