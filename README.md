@@ -49,4 +49,6 @@ sudo cp /path/to/webhunter /home/<username>/go/bin/webhunter
 or
 sudo mv /path/to/webhunter /home/<username>/go/bin/webhunter
 
+Must have GOPATH set in either ~/.zshrc or ~/.bashrc
+
 Happy Hunting!
